@@ -2,11 +2,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kagit00" alt="kagit00" /></a> </p>
 
-- 🔭 I’m currently working on **QuizFe**
+- 🔭 I’m currently working on **Medica**
 
 - 🌱 I’m currently learning **Microservices, Kafka**
 
-- 💬 Ask me about **Angular, Java**
+- 💬 Ask me about **Angular, Java, Reactjs**
 
 - 📫 How to reach me **kaustavmanna4@gmail.com**
 

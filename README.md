@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kaustav Manna</h1>
-<h3 align="center">Experienced software developer with one year of proven expertise in creating innovative and efficient solutions for diverse challenges.</h3>
+<h3 align="center">Having worked with various frontend technologies, I bring a full-stack perspective to my work, ensuring that everything — from server logic to user interfaces — is cohesive and user-friendly. I thrive on learning new technologies and embracing challenges that push my skills further.
+
+Here’s a snapshot of my technical expertise:
+
+ - Languages: Java, JavaScript, CPP
+ - Frameworks: Spring Boot, Angular, ReactJs
+ - Databases: PostgreSQL, Hibernate, Schema Design
+ - Tools: Swagger UI, Jira, IntelliJ, Eclipse, VSCode, SonarLint, ChatGPT, Git, Github, GitLab, XML,
+ JSON
+
+If you’re looking for a developer who’s passionate, driven, and always ready to innovate, let’s connect! As Steve Jobs once said, “The only way to do great work is to love what you do” — and I truly love creating impactful software.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kagit00" alt="kagit00" /></a> </p>
 

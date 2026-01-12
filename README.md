@@ -43,7 +43,7 @@ I spent my time here in the high-stakes world of financial APIs. I learned that 
 
 ---
 
-##  My Engineering "North Stars"
+##  My Engineering Philosophy
 
 * **Simplicity is a feature.** If a system is too clever to understand, it’s too hard to maintain.
 * **Measure twice, optimize once.** I don't guess where the bottleneck is; I look at the metrics.

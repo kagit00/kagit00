@@ -5,7 +5,7 @@
 
 # Hi, I'm Kaustav. I build things that scale. 
 
-I’m a Backend Engineer who actually enjoys the "messy" parts of distributed systems—the edge cases, the latency spikes, and the race conditions. My focus is on Java and high-throughput architectures, but my real job is turning ambiguous ideas into reliable, production-ready reality.
+I’m a Backend Engineer who actually enjoys the "messy" parts of systems—the edge cases, and the race conditions. My focus is on Java and high-throughput architectures, but my real job is turning ambiguous ideas into reliable, production-ready reality.
 
 I believe good engineering isn't just about writing code; it’s about making sure that code survives contact with the real world.
 
@@ -26,7 +26,7 @@ I believe good engineering isn't just about writing code; it’s about making su
 Imagine trying to match millions of entities without the system grinding to a halt. I built ScheduleX to solve exactly that.
 
 * **The Challenge:** Moving past  complexity.
-* **The Win:** Used **Locality Sensitive Hashing (LSH)** to generate 7M+ matches and implemented **off-heap storage** to keep the JVM happy and memory pressure low.
+* **The Win:** Used **Locality Sensitive Hashing (LSH)** to generate 7M+ matches and implemented **off-heap storage** to keep the memory happy and memory pressure low.
 
 ### 🔹 FlairBit — Scaling Social Connections
 

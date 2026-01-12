@@ -55,7 +55,7 @@ I spent my time here in the high-stakes world of financial APIs. I learned that 
 
 Whether it’s about system design, Java internals, or why my LeetCode graph looks the way it does, I'm always down to talk shop.
 
-* [GitHub](https://github.com/kaustav.manna) | [Portfolio](https://www.google.com/search?q=https://kaustav.manna/portfolio) | [Email](mailto:kaustavofficial09@gmail.com)
+*  [Email](mailto:kaustavofficial09@gmail.com)
 
 ---
 
